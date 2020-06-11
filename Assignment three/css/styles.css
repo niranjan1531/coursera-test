@@ -49,6 +49,8 @@ body{
 	padding:20px ;
 	background-color: #b3e2e8;
 	margin-bottom: 15px;
+	box-shadow: 10px 10px #888888;
+	border-radius: 25px;
 }
 .text{
 	opacity: 1;
