@@ -10,7 +10,7 @@ Assignment 4 : https://niranjan1531.github.io/coursera-test/Assignment%20four/
 Assignment 5 : https://niranjan1531.github.io/coursera-test/Assignment%20five/   
 
 
-*P.S : The instructions to the above assignments can be found in the link to contents of course provided below.*
+*P.S : The instructions to the above assignments can be found in the "link to contents of course" provided below.*
 
 ### Link to course :-
 https://www.coursera.org/learn/html-css-javascript-for-web-developers/home/welcome
