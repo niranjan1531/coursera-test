@@ -1,4 +1,4 @@
-# Coursera-test
+# Web-basics
 This repository contains assignments that were submitted as a part of course - "HTML, CSS, and Javascript for Web Developers" on coursera.
 
 
