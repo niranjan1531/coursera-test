@@ -4,10 +4,10 @@ This repository contains assignments that were submitted as a part of course - "
 
 ## The links to submissions are as follows :-
 
-Assignment 2 : https://niranjan1531.github.io/coursera-test/Assignment%20two/  
-Assignment 3 : https://niranjan1531.github.io/coursera-test/Assignment%20three/  
-Assignment 4 : https://niranjan1531.github.io/coursera-test/Assignment%20four/  
-Assignment 5 : https://niranjan1531.github.io/coursera-test/Assignment%20five/   
+Assignment 2 : https://niranjan1531.github.io/web-basics/Assignment%20two/  
+Assignment 3 : https://niranjan1531.github.io/web-basics/Assignment%20three/  
+Assignment 4 : https://niranjan1531.github.io/web-basics/Assignment%20four/  
+Assignment 5 : https://niranjan1531.github.io/web-basics/Assignment%20five/   
 
 
 *P.S : The instructions to the above assignments can be found in the "link to contents of course" provided below.*
